@@ -1,0 +1,10 @@
+You need 
+pytorch, 
+python3,
+torchsummary, # you may have to install this, if not just comment the import torchsummary line
+matplotlib,
+and other essential deep learning libraries to run the code, which I believe are ubiquitious.
+Also, you may need to change the results dir to your machine.
+
+And then run
+python3 exp_run.py
